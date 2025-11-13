@@ -113,7 +113,7 @@ I'm a **Full-Stack Web Developer** passionate about building robust, scalable ap
 - **Email:** asbin.xettri@gmail.com
 - **LinkedIn:** [linkedin.com/in/asbin007](https://linkedin.com/in/asbin007)
 - **GitHub:** [@asbin007](https://github.com/asbin007)
-- **Portfolio:** [asbin.dev](https://asbin.dev)
+- **Portfolio:** [https://www.asbinpokharel.com.np/](https://www.asbinpokharel.com.np/)
 
 ---
 
