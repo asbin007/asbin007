@@ -1,4 +1,4 @@
-# Asbin Xettri | Full Stack Web Developer
+# Asbin Pokharel | Full Stack Web Developer
 
 <div align="center">
 
