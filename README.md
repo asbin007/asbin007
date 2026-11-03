@@ -3,7 +3,7 @@
 Full-stack developer from Nepal. I build online shops and web apps with **TypeScript, Node.js, React** and **WordPress/WooCommerce**, and I like the part after "it works on my machine": speed, SEO, testing and getting it live.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-asbinpokharel.com.np-2E7D32?style=flat-square)](https://www.asbinpokharel.com.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-asbin007-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asbin007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asbin_Pokharel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asbin-pokharel-504420229/)
 [![Email](https://img.shields.io/badge/Email-asbin.xettri%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asbin.xettri@gmail.com)
 
 ## What I'm working on now
@@ -37,4 +37,4 @@ An online shop for an Australian landscaping and turf supplier, built on WordPre
 
 ## Contact
 
-Open to freelance and full-time work. Email [asbin.xettri@gmail.com](mailto:asbin.xettri@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/asbin007).
+Open to freelance and full-time work. Email [asbin.xettri@gmail.com](mailto:asbin.xettri@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/asbin-pokharel-504420229/).
